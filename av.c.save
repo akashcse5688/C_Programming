@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+  int b[5],sum=0;
+  printf("enter N=");
+  for(int i=0)
+  scanf("%d",&b[i])  
+    
+    
+    
+    
+    
+    
+    
+    
+}
